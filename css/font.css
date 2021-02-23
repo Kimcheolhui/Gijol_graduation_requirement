@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "에스코어 드림 3 Light";
+  src: url("../font/SCDream3.otf") format("opentype");
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Noto Sans KR Bold";
+  src: url("../font/NotoSansKR-Bold.otf") format("opentype");
+  font-style: normal;
+  font-weight: bolder;
+}
+
+@font-face {
+  font-family: "Noto Sans KR Light";
+  src: url("../font/NotoSansKR-Light.otf") format("opentype");
+  font-style: normal;
+  font-weight: lighter;
+}
+
+.eco {
+  font-family: "에스코어 드림 3 Light", sans-serif;
+}
+
+.bold {
+  font-family: "Noto Sans KR Bold", sans-serif;
+}
+
+.light {
+  font-family: "Noto Sans KR Light", sans-serif;
+}
